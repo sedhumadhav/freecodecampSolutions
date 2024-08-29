@@ -1,2 +1,3 @@
-# freecodecamp submissions
-- This repo constains my submission files for freecodecamp;
+# 📂 FreeCodeCamp Solutions: [Project Title]
+
+Submission files for freecodecamp are uploaded here.
